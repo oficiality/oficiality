@@ -10,6 +10,8 @@
 
 *Building premium digital experiences for modern brands.*
 
+Based in Argentina 🇦🇷
+
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_%E2%86%97-000000?style=flat-square&logoColor=white)](https://oficiality.vercel.app/)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram_%E2%86%97-000000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oficiality.dev/)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Contact_%E2%86%97-000000?style=flat-square&logo=protonmail&logoColor=white)](mailto:oficiality@proton.me)
